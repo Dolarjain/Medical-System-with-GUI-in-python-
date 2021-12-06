@@ -1,1 +1,0 @@
-# Medical-System-with-GUI-in-python-
